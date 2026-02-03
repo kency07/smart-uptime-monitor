@@ -1,0 +1,12 @@
+{
+    "https://example.com": {
+        "status": "UP",
+        "last_checked": "2026-02-03T14:32:10.268335+00:00",
+        "last_changed": "2026-02-02T23:41:54.027419+00:00"
+    },
+    "https://google.com": {
+        "status": "UP",
+        "last_checked": "2026-02-03T14:32:11.025921+00:00",
+        "last_changed": "2026-02-02T23:41:59.712802+00:00"
+    }
+}

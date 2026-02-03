@@ -1,0 +1,6 @@
+{"interval_second": 60,
+"sites" : [
+ "https://example.com",
+ "https://google.com"
+ ]
+}
