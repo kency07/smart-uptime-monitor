@@ -17,8 +17,7 @@ env/
 .DS_Store
 
 # Project specific
-test.py
+README_1.md
 future_impro.md
-README.md
 browser_test.py
 

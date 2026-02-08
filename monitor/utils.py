@@ -5,7 +5,7 @@ import socket
 def internet_check():
     try:
         socket.create_connection(("8.8.8.8", 53), timeout=3).close()
-        logging.info("you are online, now program will procceed")
+        logging.info("you are online, now program will proceed")
         return True
     except OSError :
         
