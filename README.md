@@ -131,12 +131,14 @@ python-dotenv>=1.0.0
 ---
 ## ⚙️ Configuration
 ### `data/config.json`
-Runtime configuration file (sites, interval, and monitoring state):
+Runtime configuration file (sites, interval):
 ```
-[
-"https://example.com",
-"https://google.com"
-]
+{"interval_second": 60,
+"sites" : [
+ "https://example.com",
+ "https://google.com"
+ ]
+}
 
 ```
 ---
